@@ -1,1 +1,3 @@
-# oh-my-sh
+# oh-my-scripts
+
+Some commonly used scripts.
